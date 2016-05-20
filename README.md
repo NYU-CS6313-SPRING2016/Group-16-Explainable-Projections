@@ -37,14 +37,18 @@ information of the correlation between brain subregions and HD risk score(CAP sc
 correlation in between brain subregion volume changes to help them to identify interesting brain 
 subregions they want to investigate. 
 
+
 Project page (on Github): 
 https://github.com/NYU­CS6313­SPRING2016/Group­16­Explainable­Projections 
 
+
 Video: https://vimeo.com/167444745 
- ​
+
+
 Working demo: 
 https://github.com/NYU­CS6313­SPRING2016/Group­16­Explainable­Projections 
 (No public access allowed)
+
 
 Additional Information
 - Please check project submission decription for password to unzip. 
