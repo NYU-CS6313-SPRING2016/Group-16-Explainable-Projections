@@ -42,14 +42,13 @@ subregions they want to investigate.
 
 
 Project page (on Github): 
-https://github.com/NYU­CS6313­SPRING2016/Group­16­Explainable­Projections 
-
+https://github.com/NYU-CS6313-SPRING2016/Group-16-Explainable-Projections
 
 Video: https://vimeo.com/167444745 
 
 
 Working demo: 
-https://github.com/NYU­CS6313­SPRING2016/Group­16­Explainable­Projections 
+https://github.com/NYU-CS6313-SPRING2016/Group-16-Explainable-Projections
 (No public access allowed)
 
 
