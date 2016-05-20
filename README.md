@@ -1,5 +1,8 @@
 # Group-16-Explainable-Projections
-Group 16 - Explainable-Projections (Sungmin Hong)
+CS6313 Information Visualization, Spring 2016
+Tandon School of Engineering, New York University
+
+Author : Sungmin Hong sh4174@nyu.edu
 
 Screenshot 
 
