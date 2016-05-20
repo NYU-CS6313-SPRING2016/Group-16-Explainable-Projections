@@ -2,8 +2,8 @@
 Group 16 - Explainable-Projections (Sungmin Hong)
 
 Screenshot 
-![alt tag](https://github.com/NYU-CS6313-SPRING2016/Group-16-Explainable-Projections/InfoVisFinal.png)
 
+![Alt text](/InfoVisFinal.png?raw=true "Screenshot")
 
 Description
 
