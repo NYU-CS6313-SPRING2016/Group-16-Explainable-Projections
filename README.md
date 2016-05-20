@@ -55,5 +55,5 @@ https://github.com/NYU-CS6313-SPRING2016/Group-16-Explainable-Projections
 
 
 ## Additional Information
-- Please check project submission decription for password to unzip. 
+Please check project submission decription for password to unzip. 
 
