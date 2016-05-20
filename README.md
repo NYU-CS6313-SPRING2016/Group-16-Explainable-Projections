@@ -1,7 +1,6 @@
 # Group-16-Explainable-Projections
 
 CS6313 Information Visualization, Spring 2016
-
 Tandon School of Engineering, New York University
 
 ## Author
