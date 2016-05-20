@@ -2,13 +2,15 @@
 CS6313 Information Visualization, Spring 2016
 Tandon School of Engineering, New York University
 
-Author : Sungmin Hong sh4174@nyu.edu
+## Author
 
-Screenshot 
+Sungmin Hong sh4174@nyu.edu
+
+## Screenshot 
 
 ![Alt text](/InfoVisFinal.png?raw=true "Screenshot")
 
-Description
+## Description
 
 The visualization framework is proposed to help users to explore high dimensional brain subregion volume changes and its relationship with Huntinton's disease.
 Huntington’s disease(HD) is a fatal neurodegenerative disease which is caused by a known 
@@ -31,7 +33,6 @@ Although a few recent studies have been published to support the relationship be
 scores and prodromal HD progression, solid proofs have not been suggested. Thus, the clinical 
 risk group analysis based on CAP score needs more supports from data to prove the correlation 
 to prodromal HD progression. 
-
  In the proposed framework, we want to offer users to have an idea how brain subregion volume 
 changes are related with HD risk burdens by projecting patients’ data to a space with user 
 selected subregions. We aim to let users explore patients’ data by projecting data to a selected 
@@ -41,17 +42,18 @@ correlation in between brain subregion volume changes to help them to identify i
 subregions they want to investigate. 
 
 
-Project page (on Github): 
+## Project page (on Github) 
 https://github.com/NYU-CS6313-SPRING2016/Group-16-Explainable-Projections
 
-Video: https://vimeo.com/167444745 
+## Video
+https://vimeo.com/167444745 
 
 
-Working demo: 
+## Working demo
 https://github.com/NYU-CS6313-SPRING2016/Group-16-Explainable-Projections
 (No public access allowed)
 
 
-Additional Information
+## Additional Information
 - Please check project submission decription for password to unzip. 
 
